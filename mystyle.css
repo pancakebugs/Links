@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
 
+
+.trail { /* className for the trail elements */
+    position: absolute;
+    height: 10px; width: 10px;
+    border-radius: 3px;
+    background: pink;
+  }
+
+  
 p.ex1 {
   margin-left: 0px;
 }
